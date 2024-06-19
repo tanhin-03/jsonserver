@@ -1,0 +1,34 @@
+{
+  "rooms": [
+    {
+      "roomID": "R01",
+      "roomName": "Vương Quốc Đỏ",
+      "description": "A luxurious room with a king-size bed",
+      "typeID": "DELUXE"
+    },
+    {
+      "roomID": "T02",
+      "roomName": "Dấu ấn Mang Thít",
+      "description": "A cozy room with a queen-size bed",
+      "typeID": "STANDARD"
+    },
+    {
+        "roomID": "R001",
+        "roomName": "Lều trại dã ngoại Glamping",
+        "description": "Vương Quốc Đỏ – tên gọi đầy tự hào của vùng quê Mang Thít – nơi hàng nghìn lò nung gạch gốm khổng lồ mọc san sát nhau như những tòa lâu đài của một miền vương quốc. Lấy cảm hứng từ đây, phòng Vương Quốc Đỏ được thiết kế với diện tích lớn bao gồm cả phòng khách và phòng ngủ, bày trí theo tinh thần tái hiện lại một không gian nặng tình miền Tây. Mang hơi thở Indochina đậm nét, các đồ trang trí trong phòng được tô điểm từ gạch gốm – một dấu ấn đặc trưng nơi quê mẹ Mang Thít – Vĩnh Long. Bên cạnh đó, để tạo ra một trải nghiệm nghỉ dưỡng hoàn hảo, phòng Vương Quốc Đỏ đặt để những chấm phá đậm nét thiên nhiên bằng các bức tranh ghi lại vẻ đẹp của cảnh sắc quê nhà.",
+        "typeID": "RC",
+        "typeName": "room center",
+        "areaID": "C",
+        "areaName": "center"
+    },
+    {
+        "roomID": "T002",
+        "roomName": "Lều Cù Lao Thới Sơn",
+        "description": "Lều được dựng giữa vườn dừa xanh mát, mang đến trải nghiệm gần gũi với thiên nhiên. Trang trí bằng đèn lồng hình dừa, võng đan bằng sợi dừa và các sản phẩm thủ công mỹ nghệ từ dừa.",
+        "typeID": "TL",
+        "typeName": "tent lake",
+        "areaID": "L",
+        "areaName": "lake"
+    }
+  ]
+}
