@@ -1,0 +1,50 @@
+{
+    "customers":
+    [
+        {
+        "firstName": "tran",
+        "lastName": "mai",
+        "email": "mai.tran@email.com",
+        "phone": "0987654321",
+        "roomID": "T003",
+        "dateIn": "2024-06-25",
+        "dateOut": "2024-06-28"
+        },
+        {
+        "firstName": "le",
+        "lastName": "hoang",
+        "email": "hoang@email.com",
+        "phone": "0912345678",
+        "roomID": "R004",
+        "dateIn": "2024-07-01_2024-07-01",
+        "dateOut": "2024-07-05_2024-07-06"
+        },
+        {
+        "firstName": "vu",
+        "lastName": "phong",
+        "email": "phong.vu@email.com",
+        "phone": "0795386421",
+        "roomID": "R007_R008",
+        "dateIn": "2024-07-15_2024-07-15_2024-07-15",
+        "dateOut": "2024-07-20_2024-07-20_2024-07-20"
+        },
+        {
+        "firstName": "nguyen",
+        "lastName": "anh",
+        "email": "anh.nguyen@email.com",
+        "phone": "0987654321",
+        "roomID": "R001",
+        "dateIn": "2024-08-02",
+        "dateOut": "2024-08-05"
+        },
+        {
+        "firstName": "nguyen",
+        "lastName": "son",
+        "email": "son@email.com",
+        "phone": "0123456789",
+        "roomID": "R001_R002",
+        "dateIn": "2024-06-24_2024-06-24",
+        "dateOut": "2024-06-26_2024-06-27"
+        }
+    ]
+}
